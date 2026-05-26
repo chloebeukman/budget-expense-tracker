@@ -1,5 +1,5 @@
 """
-expense_tracker.py
+budget_tracker_app.py
 ------------------
 Main entry point for the Expense Tracker desktop application.
 Built with Python and Tkinter, using SQLite for persistent storage.
